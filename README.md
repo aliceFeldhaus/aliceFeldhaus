@@ -1,4 +1,4 @@
-## Olá! Eu sou a Alice Feldhaus
+## Oii, aqui é a Alice Feldhaus
 
 <div align="center">
   <a href="https://github.com/aliceFeldhaus">
@@ -24,12 +24,10 @@
 
 <div>
 
-  <a  href="https://www.instagram.com/aliceefeldhaus/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 
+  <a href="https://www.instagram.com/aliceefeldhaus/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:alicesfeldhaus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/alice-feldhaus-50a2a9175" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-  <a width="40" href="https://www.linkedin.com/in/alice-feldhaus-50a2a9175" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
 ![Snake animation](https://github.com/aliceFeldhaus/aliceFeldhaus/blob/output/github-contribution-grid-snake.svg)
  
 </div>
