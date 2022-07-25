@@ -1,4 +1,4 @@
-## Oii, aqui é a Alice Feldhaus
+## Oii, aqui é a Alice, sou desenvolvedora em um projeto mobile, atualmente trabalho com Angular, Node.js e Java.
 
 <div align="center">
   <a href="https://github.com/aliceFeldhaus">
