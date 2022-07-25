@@ -1,4 +1,5 @@
-## Oii, aqui é a Alice, sou desenvolvedora em um projeto mobile, atualmente trabalho com Angular, Node.js e Java.
+## Oii, aqui é a Alice!
+<p>Sou desenvolvedora em um projeto mobile, atualmente trabalho com Angular, Node.js e Java.</p>
 
 <div align="center">
   <a href="https://github.com/aliceFeldhaus">
